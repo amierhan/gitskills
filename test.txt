@@ -3,3 +3,4 @@ this is the first day I learn git.
 It's a good begin.
 now I want to change it.
 add distributed
+git checkout -- test.txt
